@@ -1,0 +1,25 @@
+{
+    "params":
+    {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/coding_era",
+        "prod_uri":"mysql://root:@localhost/coding_era",
+        "fb_url":"https://facebook.com/mohammed.huzefa.94",
+        "twi_url":"https://twitter.com/iamhzfa",
+        "git_url":"https://github.com/iamhzfa",
+        "insta_url":"https://instagram.com/iamhzfa",
+        "linked_url":"https://linkedin.com/in/iamhzfa",
+        "blog_name":"Coding Era",
+        "tag_line":"The Coding Blog by the programmers",
+        "gmail_user":"huzefaibnekhalid@gmail.com",
+        "gmail_psswrd":"Huzefa",
+        "no_of_posts":2,
+        "posts_page_post":4,
+        "login_img":"bootstrap-logo.svg",
+        "admin_user":"huzefa",
+        "admin_password":"huzefabhai"
+
+
+    }
+
+}
